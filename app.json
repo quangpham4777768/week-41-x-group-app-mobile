@@ -4,12 +4,13 @@
     "slug": "week-41-x-group-app-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "khunglongggg",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffffff"  
     },
     "updates": {
       "fallbackToCacheTimeout": 0
